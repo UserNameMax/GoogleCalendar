@@ -10,6 +10,7 @@ enum class Freq {
 sealed class Ending {
     data class Count(val value: Int) : Ending()
     data class Until(val value: Long) : Ending()
+    object Empty: Ending()
 }
 
 data class Recurrence(
@@ -29,7 +30,7 @@ data class Recurrence(
                 count != null && until != null -> throw IllegalArgumentException()
                 count != null -> Ending.Count(count)
                 until != null -> Ending.Until(until)
-                else -> throw IllegalArgumentException()
+                else -> Ending.Empty
             },
             byDay = byDay.onEach { day -> if (day !in 1..7) throw IllegalArgumentException() },
             byMonth = byMonth.onEach { month -> if (month !in 1..12) throw IllegalArgumentException() },

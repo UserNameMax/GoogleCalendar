@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "effective-office-396108",
+  "private_key_id": "1e15837ae2156dfb75293a16c88bd6cbd4031faa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCk8gsQQfGjEYie\nwjG+txv3Lma3K5UKgADOnXgyWuXIVjEa7LvMlo8naBhz0mMFgYJw9XogAuWkZpFJ\npKkDVcVjZY+p/a1i/tdHjjXE4exQ36BFNH5vdkSHsTkL3j5bw58IZa87SJIrzlZl\n66A+UfnVToLTcpntEB8tO9E5DL/fdi4iUloAyZ8+K1GPyv997tM8BlW5tu3sFVeJ\ndJ6KWiJXL5vIoZYXMzHOhM6FZtrYXsVi0bMxJ0zWorha4zsr0cUncI+Vn9zsP19Y\nl54uh1U6HpVE/HVEOymUGdu/8sLOGlw/lrkd5gk5ad3GwTp9uk92CUr9/ovMZcHI\nEKDGn9WrAgMBAAECggEAMU1buzdKx6glAvcesVfAFykacKOpP+M02o088Sg0SKZi\ntR6Pn75c+bVmobAAAxRL7gGhyFG1XGeAA9gg4KtRfb1MrM3zdoSfynaaYcf5v86n\n9CeVpzFdmIWDfKWoU/tr3LGwJ/MwJcHeF0bPtfEA0R5Pgm5dzfskpnubtQa3j04j\n8egjpQDIPJWm6insNgdQXrZoTq+SWYoz3VhuARzJ1dOAIjphOVefCUJYyzzvSQ4j\nY94lAABN+oqlQ1h31ZczSBJ9lvFDsP2tVUj5kdmUYVU8NqrrH43iMHAejOW4u4kE\nab9BD8kybUl+RZXLc4D+rfLnRzf/nElEQ5VygIuoEQKBgQDOH7TydFku3UISKo6E\nysWRDhRGsBAxAZIcsItRO1GerQC/Vc/VhZv+lOqGxSBYPTX6E/bOP2+uzz9ZdVL+\nSs0fXdrq1q0ecuNeGii2yGNOfOqNk1npcSCpHU6mHSWSitb3fgkeND2Vvk1uG5Ft\nkh0bSW+poO65eMMUomYdmbwKMwKBgQDM241FS0YX/bjjL6TrFxA9dhzvuWYdDANf\n98navh5kSs3n8HeCBraL75p9GjQns4os3V+vh/ZmH6KgBHldkAt/SK3j39tUeL2I\nAeHvbOUtNsxS6vOxDP9FMaTd0/zuzInmLVV6aSNvwAJy1+S1QyrnXvwgBbvsdckD\nJzzxyah+qQKBgGPGD0WJMh4wNaordV8r8+QaB5CL6tp94ycGAfnpF8ISBhmXxQmb\nKf5aQQfJZbWws28AuOfu5vWcFhMMaoby2EWFndEs5xGlFQ/Y47pOV1uHtdWf7NbF\nzsRtjkN0Olqr4BBerrUzHlhcjIhuyb9bCcHKk0VtxAB9Rxi2320WnGHnAoGBAIt4\nst7Jl+g/ksACMQrpgeIGZz8C/7Wo9ydAYYpuw+xOTY+q1QKOpXvyXkDsNTQOdXWE\nJmAwdh4jTaoaQbLknh9DkThCsWX6ajeN6JAEmKdG1qdhVRZmnekzGmb4rAy87unq\nVXbo2/p6RHCB8jFCkJRDw+3dWYtsybU+4qxPOks5AoGAar//2EWI/0sz6E+VerUX\nWFpcYUbSa0zjPl7BFMrRmVBif+3QzSA5f/F4nQ4KYrREhkrykXI6x4xAP+geTzTS\n72pR+Qz4+WbroTBpAnztflieWiA6CAt9RnEH35NXWhgqHH4aYloydL6hXfINeAhE\n+EbA5+UlRMz2a1xjT09aYe8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "effectiveoffice@effective-office-396108.iam.gserviceaccount.com",
+  "client_id": "112144091903232514875",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/effectiveoffice%40effective-office-396108.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

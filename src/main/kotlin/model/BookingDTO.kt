@@ -7,5 +7,5 @@ data class BookingDTO(
     val id: String?,
     val beginBooking: Long,
     val endBooking: Long,
-    val recurrence: RecurrenceDTO
+    val recurrence: RecurrenceDTO? = null
 )
